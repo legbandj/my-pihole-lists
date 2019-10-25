@@ -9,5 +9,4 @@ clients4.google.com
 clients2.google.com
 www.msftncsi.com
 clientconfig.passport.net
-www.vice.com
 www.cnbc.com
