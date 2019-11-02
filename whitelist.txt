@@ -10,3 +10,4 @@ clients2.google.com
 www.msftncsi.com
 clientconfig.passport.net
 www.cnbc.com
+events.appsflyer.com
