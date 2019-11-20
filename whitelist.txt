@@ -14,4 +14,4 @@ events.appsflyer.com
 bravotv.com
 thevisualiser.net
 reddit.com
-bad-dragon.com
+www.pnas.org
