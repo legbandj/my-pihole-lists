@@ -22,3 +22,8 @@ www.goodreads.com
 thehill.com
 www.goodhousekeeping.com
 forms.gle
+device-metrics-us-2.amazon.com
+aan.amazon.com
+s.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+fls-na.amazon.com
