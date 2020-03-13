@@ -29,3 +29,5 @@ aax-us-east.amazon-adsystem.com
 fls-na.amazon.com
 inkedmag.com
 www.inkedmag.com
+thebeaverton.com
+www.thebeaverton.com
