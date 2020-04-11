@@ -36,3 +36,5 @@ fash.com
 laist.com
 dominantguide.com
 www.behance.net
+c.apple.com
+apps.apple.com
